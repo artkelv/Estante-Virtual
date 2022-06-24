@@ -98,5 +98,6 @@
         "value": 17.83
     }
     
-    <h4>Queridos amigos, espero que tenham gostado, esse foi mais uma trabalho muito empolgante e super divertido de se fazer, eu gosto muito de fazer esse tipo de case, por que me ajuda no meu desenvolvimento e me instiga a aprender mais com os desafios que surgem mediante vou fazendo ele.</h4>
-    <h4>Aqui no github você pode me contatar e olhar alguns projetos, fiquem a vontade para fazer isso. Até maaaaaaisss!!😄</h4>
+<h4>Queridos amigos, espero que tenham gostado, esse foi mais uma trabalho muito empolgante e super divertido de se fazer, eu gosto muito de fazer esse tipo de case, por que me ajuda no meu desenvolvimento e me instiga a aprender mais com os desafios que surgem mediante vou fazendo ele.</h4>
+
+<h4>Aqui no github você pode me contatar e olhar alguns projetos, fiquem a vontade para fazer isso. Até maaaaaaisss!!😄</h4>
