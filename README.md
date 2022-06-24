@@ -11,7 +11,7 @@
  <p>Como de prastes, deixarei abaixo algumas informações sobre o projeto, informações básicas e técnicas. Desde já agradeço muito por está lendo até aqui e espero que goste do meu trabalho.</p>
  
 <h3>Informações ◀️</h3>
-<p>Desenvolvida por: Arthur Kelvim de Oliveira Silva </p>
+<p>Desenvolvida por: Arthur Kelvim de Oliveira Silva</p>
 <p>Data: 05/2022</p>
 <p>Escola de ensino: Labenu</p>
 <p>Linguagens utilizadas: NODE e TYPESCRIPT.</p>
