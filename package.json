@@ -5,8 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "tsc && node ./build/test.js",
-    "start": "tsc && node ./build/index.js",
-    "dev-start": "ts-node-dev ./src/index.ts"
+    "dev-start": "ts-node-dev ./src/index.ts",
+    "postinstall": "tsc",
+    "start":"node ./build/index.js"
   },
   "keywords": [],
   "author": "",
