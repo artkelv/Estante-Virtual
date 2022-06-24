@@ -1,4 +1,4 @@
-import express, { Express } from "express";
+import express, { Express, Request, Response } from "express";
 import cors from "cors";
 import { AddressInfo } from "net";
 import { createComptRouter } from "./router/createCompt";
@@ -16,6 +16,10 @@ app.use("/new", newResultRouter)
 app.use("/finish", finishComptRouter)
 app.use("/ranking", rankingRouter)
 
+export async function getHome(req: Request, res: Response): Promise<void>{
+  res.status(200).send("ok funcionando")
+}
+app.get("/", getHome);
 
 //Server config
 const server = app.listen(process.env.PORT || 3003, () => {
