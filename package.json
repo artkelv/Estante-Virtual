@@ -1,5 +1,5 @@
 {
-  "name": "exercicios_aula",
+  "name": "estante_virtual",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "tsc && node ./build/test.js",
     "dev-start": "ts-node-dev ./src/index.ts",
     "postinstall": "tsc",
-    "start":"node ./build/index.js"
+    "start": "node ./build/index.js"
   },
   "keywords": [],
   "author": "",
@@ -21,11 +21,13 @@
   },
   "dependencies": {
     "@types/knex": "^0.16.1",
+    "@types/uuid": "^8.3.4",
     "axios": "^0.27.0",
     "cors": "^2.8.5",
     "dotenv": "^16.0.0",
     "express": "^4.17.3",
     "knex": "^2.0.0",
-    "mysql": "^2.18.1"
+    "mysql": "^2.18.1",
+    "uuid": "^8.3.2"
   }
 }
