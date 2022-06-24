@@ -6,8 +6,8 @@
   "scripts": {
     "test": "tsc && node ./build/test.js",
     "dev-start": "ts-node-dev ./src/index.ts",
-    "postinstall": "tsc",
-    "start": "node ./build/index.js"
+    "start": "tsc && node ./build/src/index.js",
+    "postinstall": "npm i -g typescript"
   },
   "keywords": [],
   "author": "",
