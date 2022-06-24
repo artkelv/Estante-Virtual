@@ -16,7 +16,6 @@ app.use("/new", newResultRouter)
 app.use("/finish", finishComptRouter)
 app.use("/ranking", rankingRouter)
 
-
 //Server config
 const server = app.listen(process.env.PORT || 3003, () => {
   if (server) {
